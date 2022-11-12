@@ -5,11 +5,14 @@
 * HTTP1 vs HTTP2
 * gRPC vs REST
 ### Protocol Buffers
-### gRPC Introduction 
-### Unary RPC
-### Server Streaming RPC
-### Client Streaming RPC
-### Bidirectional Streaming RPC
+### gRPC 
+
+##### Introduction 
+##### RPC Types 
+###### Unary RPC
+###### Server Streaming RPC
+###### Client Streaming RPC
+###### Bidirectional Streaming RPC
 ### Channel & Load Balancing
 ### Deadline
 ### Interceptors
