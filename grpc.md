@@ -5,6 +5,12 @@
 * HTTP1 vs HTTP2
 * gRPC vs REST
 ### Protocol Buffers
+#### Introduction 
+* IDL - Interface Definition Language for API
+* Paltform and Language Neurtral
+* Serializing/deserializng structured data
+* Vey fast optimized for Interservice communication
+* Provides client libraries for many language automatically
 ### gRPC 
 
 ##### Introduction 
