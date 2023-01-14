@@ -1,0 +1,26 @@
+# Chapter 1 - Introduction
+
+##Concurrency An Introduction
+
+### Factors that led the development of multitasking OSs
+* Resources Utilization
+* Fairness
+* Convinience
+
+### Benefits of Threads
+* Exploiting Multiple Processors
+* Simplicity of Modeling
+* Simplified handling of asynchronous events
+* More responsive user interfaces
+
+### Risks of Threads
+* Safety hazards
+* Liveness hazards
+* Performance hazards
+
+### Threads are everywhere
+
+* Timer
+* Servelet & Java Server Pages
+* Remote Method Invocation
+* Swing and AWT
